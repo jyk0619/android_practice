@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/bts_ex" />
             <option value="$PROJECT_DIR$/goodwords" />
+            <option value="$PROJECT_DIR$/trot_list" />
           </set>
         </option>
       </GradleProjectSettings>

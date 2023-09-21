@@ -16,3 +16,4 @@ rootProject.name = "test"
 include ':app'
 include ':bts_ex'
 include ':goodwords'
+include ':trot_list'
